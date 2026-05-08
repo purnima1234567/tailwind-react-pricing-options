@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 1200,
+    "duration": "month",
+    "description": "Good for beginners getting started with fitness.",
+    "features": [
+      "Access to all gym equipment",
+      "Locker room access",
+      "1 fitness consultation",
+      "Limited gym hours",
+      "Basic workout guidance",
+      "Free drinking water",
+      "Mobile app access"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": 2500,
+    "popular": true,
+    "duration": "month",
+    "description": "Perfect for regular training and better results.",
+    "features": [
+      "All Basic features",
+      "Access to group classes",
+      "Free diet plan",
+      "Extended gym hours",
+      "2 personal training sessions",
+      "Progress tracking",
+      "Body composition analysis",
+      "Priority support"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": 5000,
+    "duration": "month",
+    "description": "Best for full support and advanced fitness goals.",
+    "features": [
+      "All Standard features",
+      "Unlimited personal training",
+      "24/7 gym access",
+      "Custom workout plan",
+      "Sauna & relaxation area",
+      "Steam room access",
+      "Dedicated fitness coach",
+      "Supplement guidance",
+      "VIP locker",
+      "Guest passes (2 per month)"
+    ]
+  }
+]
